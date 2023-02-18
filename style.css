@@ -2,7 +2,7 @@
 
 body {
   margin-left: 0;
-  margin-right: 0;
+  /* margin-right: 0; */
   max-width: 1500px;
   min-width: 1000px;
 }
@@ -30,12 +30,12 @@ li {
 
 .main-img {
   position: relative;
+  width: 50%;
 }
 
-
 img {
-  width: 50%;
-  min-width: 50%;
+  width: 100%;
+  /* min-width: 50%; */
   position: absolute;
   top: 200px;
   left: 720px;
